@@ -1,5 +1,3 @@
--- discord.gg/syncrypt
-
 if not game:IsLoaded() then game.Loaded:Wait() end
 
 local HttpService = game:GetService("HttpService")

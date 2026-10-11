@@ -1,5 +1,3 @@
--- discord.gg/syncrypt
-
 local __DuskCapturedModules = {
     ["/raw/dusk_library_test"] = [==[ 
 
